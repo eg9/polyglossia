@@ -77,7 +77,7 @@ and may look very wrong.}
   \def\psname{נ.ב.}%
   \def\seename{ראה}%
   \def\alsoname{ראה גם}% check
-  \def\proofname{הוכחה}
+  \def\proofname{הוכחה}%
   \def\glossaryname{מילון מונחים}% check
 }
 \def\datehebrew{%
